@@ -93,8 +93,9 @@ int main(void)
   /* USER CODE END 2 */
 
   /* Initialize leds */
+  //1
   BSP_LED_Init(LED_GREEN);
-  
+
   BSP_LED_Init(LED_GREEN);
 
   BSP_LED_Init(LED_GREEN);
