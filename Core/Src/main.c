@@ -95,7 +95,7 @@ int main(void)
   /* Initialize leds */
   //1
   BSP_LED_Init(LED_GREEN);
-
+  //2
   BSP_LED_Init(LED_GREEN);
 
   BSP_LED_Init(LED_GREEN);
