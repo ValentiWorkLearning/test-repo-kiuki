@@ -97,7 +97,7 @@ int main(void)
   BSP_LED_Init(LED_GREEN);
   //2
   BSP_LED_Init(LED_GREEN);
-
+  //3
   BSP_LED_Init(LED_GREEN);
 
   /* Initialize USER push-button, will be used to trigger an interrupt each time it's pressed.*/
